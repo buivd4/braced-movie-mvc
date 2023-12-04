@@ -1,0 +1,7 @@
+com/mkyong/common/controller/MovieController.class
+com/mkyong/common/exceptions/AbstractException.class
+com/mkyong/common/controller/HelloController.class
+com/mkyong/common/models/entities/Movie.class
+com/mkyong/common/exceptions/DatabaseActionException.class
+com/mkyong/common/models/dao/MovieDAOImpl.class
+com/mkyong/common/models/dao/MovieDAO.class
