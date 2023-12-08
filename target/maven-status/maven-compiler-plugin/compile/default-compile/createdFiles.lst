@@ -1,4 +1,5 @@
 com/mkyong/common/controller/MovieController.class
+com/mkyong/common/controller/MovieAPIController.class
 com/mkyong/common/exceptions/AbstractException.class
 com/mkyong/common/controller/HelloController.class
 com/mkyong/common/models/entities/Movie.class
